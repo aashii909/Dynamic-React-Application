@@ -1,0 +1,1 @@
+This project is dynamic and responsive web application built using React, JavaScript, and CSS.It demonstrates the use of React components, state management, and interactive UI design to create a seamless user experience.
